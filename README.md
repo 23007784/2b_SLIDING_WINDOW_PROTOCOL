@@ -40,8 +40,10 @@ while True:
 ```
 ## OUPUT
 ## CLIENT
+![ex2b c](https://github.com/user-attachments/assets/d2f5b3d3-762c-4466-8db9-9dbf45123881)
 
 ## SERVER
+![ex2b s](https://github.com/user-attachments/assets/182b7529-1fd2-47fe-833f-a808d0abf9ed)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
